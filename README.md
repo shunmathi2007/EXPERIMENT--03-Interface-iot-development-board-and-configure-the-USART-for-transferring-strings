@@ -10,7 +10,7 @@
 
 ## Aim:
 
-To Interface iot development board for configuring the usart and transfer strings through it 
+To Interface iot development board for configuring the usart and transfer strings through it
 
 ## Components required: 
 
